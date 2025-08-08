@@ -1,8 +1,8 @@
- Olá! Eu sou a Thayna Félix 👋
+ ## Olá! Eu sou a Thayna Félix 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação. Estou em constante aprendizado, com foco no desenvolvimento backend.
 
-## 🌱 Atualmente estudando:
+## 🌱 Atualmente estudando: 
 - HTML, CSS, JavaScript
 - Python
 - Git e GitHub
